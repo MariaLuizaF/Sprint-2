@@ -1,0 +1,7 @@
+C:\Users\Malu Freitas\Desktop\trbalho final\VegTable\VegTable\bin\Debug\VegTable.exe.config
+C:\Users\Malu Freitas\Desktop\trbalho final\VegTable\VegTable\bin\Debug\VegTable.exe
+C:\Users\Malu Freitas\Desktop\trbalho final\VegTable\VegTable\bin\Debug\VegTable.pdb
+C:\Users\Malu Freitas\Desktop\trbalho final\VegTable\VegTable\obj\Debug\VegTable.csproj.AssemblyReference.cache
+C:\Users\Malu Freitas\Desktop\trbalho final\VegTable\VegTable\obj\Debug\VegTable.csproj.CoreCompileInputs.cache
+C:\Users\Malu Freitas\Desktop\trbalho final\VegTable\VegTable\obj\Debug\VegTable.exe
+C:\Users\Malu Freitas\Desktop\trbalho final\VegTable\VegTable\obj\Debug\VegTable.pdb
